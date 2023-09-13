@@ -1,1 +1,1 @@
-print("Hello ALLgit")
+print("Hello ALL")
